@@ -1,3 +1,3 @@
 import os
 os.system("clear")
-printf(hello world!)
+print("hello world!")
