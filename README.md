@@ -1,4 +1,4 @@
-# QXZI Auto Boosting Tool (auto_boost.py)
+# QXZI Auto Boosting Tool (QXZI.py)
 
 ## Features
 - Interactively choose a service from a predefined list.
